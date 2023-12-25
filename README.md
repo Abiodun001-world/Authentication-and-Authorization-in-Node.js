@@ -22,7 +22,7 @@ This is the list of the  dependencies or software that users need to have instal
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/OpenGenus/Authnetication-and-Authorization-in-nodejs/git
+   git clone https://github.com/OpenGenus/Authentication-and-Authorization-in-Node.js/git
    ```
 
 2. After cloning you should be in the project directory:
