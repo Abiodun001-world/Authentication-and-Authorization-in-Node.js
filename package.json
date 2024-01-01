@@ -1,0 +1,15 @@
+{
+  "name": "authentication-and-authorization-in-node",
+  "version": "1.0.0",
+  "description": "Authentication and Authorization in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abiodun Adekunle",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
