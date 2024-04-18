@@ -1,3 +1,4 @@
+// Handles route logic
 // controllers/authController.js
 const { users } = require('../model/user');
 

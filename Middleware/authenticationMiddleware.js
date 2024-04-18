@@ -1,3 +1,4 @@
+// Handles authentication and authorization logic
 // middleware/authenticationMiddleware.js
 const users = require('../model/user').users;
 

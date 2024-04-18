@@ -1,3 +1,4 @@
+// Handles Data Structure
 // model/user.js
 class User {
     constructor(username, password, role = 'user') {
